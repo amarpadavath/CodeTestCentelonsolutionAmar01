@@ -13,16 +13,16 @@ Please find the project structure below
 |   |   |-- java
 |   |   |   |--  base-                           
 |   |   |   |-- pages
-           |--utils
+|    |      |--utils
 |   |   Test-- java
 |   |       |-- Hooks               
 |   |       |-- step definition 
-            |-- TestRunner 
-            Test-- resources
+|    |        |-- TestRunner 
+|   |        Test-- resources
 |   |       |-- Feature              
 |   |       |-- Config 
-            |-- Excel
+|    |        |-- Excel
 |-- Screenshot                                
-|-- target  -Report                           #
-|-- pom.xml                            # 
+|-- target  -Report                           
+|-- pom.xml                            
 
