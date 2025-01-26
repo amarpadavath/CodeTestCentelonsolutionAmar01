@@ -13,13 +13,13 @@ Please find the project structure below
 |   |   |-- java
 |   |   |   |--  base-                           
 |   |   |   |-- pages
-#           |-- utils 
+           |--utils
 |   |   Test-- java
 |   |       |-- Hooks               
 |   |       |-- step definition 
             |-- TestRunner 
             Test-- resources
-|   |       |-- Featute              
+|   |       |-- Feature              
 |   |       |-- Config 
             |-- Excel
 |-- Screenshot                                
