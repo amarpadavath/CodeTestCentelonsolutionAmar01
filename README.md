@@ -8,21 +8,19 @@ Step definition file
 If you need to change browser, please change the config.properties file
 Please find the project structure below
 
-|-- src
-|   |-- main
-|   |   |-- java
-|   |   |   |--  base-                           
-|   |   |   |-- pages
-|    |      |--utils
-|   |   Test-- java
-|   |       |-- Hooks               
-|   |       |-- step definition 
-|    |        |-- TestRunner 
-|   |        Test-- resources
-|   |       |-- Feature              
-|   |       |-- Config 
-|    |        |-- Excel
-|-- Screenshot                                
-|-- target  -Report                           
-|-- pom.xml                            
+src- main-java
+( base-                           
+pages
+utils)
+src-test- java
+( Hooks               
+step definition 
+TestRunner )
+SRC-Test-- resources
+(Feature              
+Config 
+Excel)
+Screenshot                                
+target- Report                           
+pom.xml                            
 
