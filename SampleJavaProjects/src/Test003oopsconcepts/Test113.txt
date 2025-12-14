@@ -1,0 +1,23 @@
+class A
+{
+void method1()
+{
+}
+
+void method1()
+{
+}
+
+}
+
+
+Class B extends A
+{
+void method3()
+{
+}
+void method4()
+{
+}
+
+}
